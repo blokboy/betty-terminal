@@ -6,7 +6,9 @@
     "url": "git://github.com/coetry/betty-terminal.git"
   },
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "blessed": "^0.1.81"
   },
